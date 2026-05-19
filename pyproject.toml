@@ -1,0 +1,29 @@
+[project]
+name = "symbol-matching"
+version = "0.1.0"
+description = "Symbol matching on construction drawings"
+requires-python = ">=3.10"
+
+# Runtime deps are pinned to ranges, not hashes — this is a takehome demo,
+# not a reproducible build. See README for install instructions.
+dependencies = [
+    "pymupdf>=1.24",
+    "opencv-python-headless>=4.10",
+    "numpy>=1.26",
+    "pillow>=10.0",
+    "matplotlib>=3.8",
+    "torch>=2.4",
+    "torchvision>=0.19",
+    "transformers>=4.45",
+    "huggingface_hub>=0.25",
+]
+
+[project.optional-dependencies]
+notebook = ["jupyter", "ipykernel"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

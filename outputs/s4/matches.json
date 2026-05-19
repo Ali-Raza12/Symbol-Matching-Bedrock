@@ -1,0 +1,5642 @@
+[
+  {
+    "capture": {
+      "id": "cap_9238d777d7",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 7528,
+        "y": 5424,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_734fae2336",
+      "capture_id": "cap_9238d777d7",
+      "reference_id": "ref",
+      "score": 0.964718371629715,
+      "score_breakdown": {
+        "ncc": 0.9999999403953552,
+        "dinov3_cosine": 0.9294368028640747,
+        "combined": 0.964718371629715
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_ad40c6d962",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1123,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_78fbf651f3",
+      "capture_id": "cap_ad40c6d962",
+      "reference_id": "ref",
+      "score": 0.9535853564739227,
+      "score_breakdown": {
+        "ncc": 0.9477400183677673,
+        "dinov3_cosine": 0.9594306945800781,
+        "combined": 0.9535853564739227
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_28b936b8c0",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6957,
+        "y": 2396,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_380d7115de",
+      "capture_id": "cap_28b936b8c0",
+      "reference_id": "ref",
+      "score": 0.9128236174583435,
+      "score_breakdown": {
+        "ncc": 0.9034051895141602,
+        "dinov3_cosine": 0.9222420454025269,
+        "combined": 0.9128236174583435
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_ae72c3043b",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4811,
+        "y": 2094,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f62e8bafd7",
+      "capture_id": "cap_ae72c3043b",
+      "reference_id": "ref",
+      "score": 0.9028642177581787,
+      "score_breakdown": {
+        "ncc": 0.8998600244522095,
+        "dinov3_cosine": 0.905868411064148,
+        "combined": 0.9028642177581787
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d18b54c6ec",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 3346,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_7b86fc6cba",
+      "capture_id": "cap_d18b54c6ec",
+      "reference_id": "ref",
+      "score": 0.9057402312755585,
+      "score_breakdown": {
+        "ncc": 0.8710605502128601,
+        "dinov3_cosine": 0.9404199123382568,
+        "combined": 0.9057402312755585
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_15f6860dd6",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1829,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_c99a045b43",
+      "capture_id": "cap_15f6860dd6",
+      "reference_id": "ref",
+      "score": 0.8622832596302032,
+      "score_breakdown": {
+        "ncc": 0.835393488407135,
+        "dinov3_cosine": 0.8891730308532715,
+        "combined": 0.8622832596302032
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_3741875889",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4203,
+        "y": 2194,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_9d84d35ef5",
+      "capture_id": "cap_3741875889",
+      "reference_id": "ref",
+      "score": 0.8261096477508545,
+      "score_breakdown": {
+        "ncc": 0.7693247199058533,
+        "dinov3_cosine": 0.8828945755958557,
+        "combined": 0.8261096477508545
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_a5b22479b2",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2557,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_d59ad21fd8",
+      "capture_id": "cap_a5b22479b2",
+      "reference_id": "ref",
+      "score": 0.8089753091335297,
+      "score_breakdown": {
+        "ncc": 0.7675572633743286,
+        "dinov3_cosine": 0.8503933548927307,
+        "combined": 0.8089753091335297
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_a2b179102c",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3970,
+        "y": 3606,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_3943c6b34a",
+      "capture_id": "cap_a2b179102c",
+      "reference_id": "ref",
+      "score": 0.8127356171607971,
+      "score_breakdown": {
+        "ncc": 0.7652884721755981,
+        "dinov3_cosine": 0.8601827621459961,
+        "combined": 0.8127356171607971
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_4079012cd2",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4115,
+        "y": 4354,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_825abb2c8b",
+      "capture_id": "cap_4079012cd2",
+      "reference_id": "ref",
+      "score": 0.8192932903766632,
+      "score_breakdown": {
+        "ncc": 0.7584171891212463,
+        "dinov3_cosine": 0.8801693916320801,
+        "combined": 0.8192932903766632
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0ec16261c8",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5554,
+        "y": 5301,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_2c231416fb",
+      "capture_id": "cap_0ec16261c8",
+      "reference_id": "ref",
+      "score": 0.8202362358570099,
+      "score_breakdown": {
+        "ncc": 0.7574219107627869,
+        "dinov3_cosine": 0.8830505609512329,
+        "combined": 0.8202362358570099
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_31b7caaa34",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5284,
+        "y": 5299,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_9b65e500dd",
+      "capture_id": "cap_31b7caaa34",
+      "reference_id": "ref",
+      "score": 0.8246723413467407,
+      "score_breakdown": {
+        "ncc": 0.755979061126709,
+        "dinov3_cosine": 0.8933656215667725,
+        "combined": 0.8246723413467407
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0d949f1dc1",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6399,
+        "y": 5358,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f42acc2924",
+      "capture_id": "cap_0d949f1dc1",
+      "reference_id": "ref",
+      "score": 0.8175995647907257,
+      "score_breakdown": {
+        "ncc": 0.7554939389228821,
+        "dinov3_cosine": 0.8797051906585693,
+        "combined": 0.8175995647907257
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c8dcb6cf4f",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 1344,
+        "y": 4995,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_147a223b03",
+      "capture_id": "cap_c8dcb6cf4f",
+      "reference_id": "ref",
+      "score": 0.7943555414676666,
+      "score_breakdown": {
+        "ncc": 0.7540294528007507,
+        "dinov3_cosine": 0.8346816301345825,
+        "combined": 0.7943555414676666
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_532c99dd9f",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2773,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_312099c9c1",
+      "capture_id": "cap_532c99dd9f",
+      "reference_id": "ref",
+      "score": 0.8263085782527924,
+      "score_breakdown": {
+        "ncc": 0.7511484026908875,
+        "dinov3_cosine": 0.9014687538146973,
+        "combined": 0.8263085782527924
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d933b62c89",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 3268,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_762c6996f3",
+      "capture_id": "cap_d933b62c89",
+      "reference_id": "ref",
+      "score": 0.8328386545181274,
+      "score_breakdown": {
+        "ncc": 0.7498985528945923,
+        "dinov3_cosine": 0.9157787561416626,
+        "combined": 0.8328386545181274
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_075e96deb0",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4779,
+        "y": 5316,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_25ff42e12e",
+      "capture_id": "cap_075e96deb0",
+      "reference_id": "ref",
+      "score": 0.8135356307029724,
+      "score_breakdown": {
+        "ncc": 0.746381938457489,
+        "dinov3_cosine": 0.8806893229484558,
+        "combined": 0.8135356307029724
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_fad1e4644d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4249,
+        "y": 2375,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_37b666c74d",
+      "capture_id": "cap_fad1e4644d",
+      "reference_id": "ref",
+      "score": 0.8087998032569885,
+      "score_breakdown": {
+        "ncc": 0.7451958656311035,
+        "dinov3_cosine": 0.8724037408828735,
+        "combined": 0.8087998032569885
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_8512aa6582",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2063,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_6843e7f19b",
+      "capture_id": "cap_8512aa6582",
+      "reference_id": "ref",
+      "score": 0.8396623730659485,
+      "score_breakdown": {
+        "ncc": 0.7448727488517761,
+        "dinov3_cosine": 0.9344519972801208,
+        "combined": 0.8396623730659485
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_7e617d553d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4421,
+        "y": 2135,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f1ebb2c814",
+      "capture_id": "cap_7e617d553d",
+      "reference_id": "ref",
+      "score": 0.7855021953582764,
+      "score_breakdown": {
+        "ncc": 0.7442865371704102,
+        "dinov3_cosine": 0.8267178535461426,
+        "combined": 0.7855021953582764
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_505b8a7f8b",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1210,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_bc2475e5ef",
+      "capture_id": "cap_505b8a7f8b",
+      "reference_id": "ref",
+      "score": 0.8459116220474243,
+      "score_breakdown": {
+        "ncc": 0.7431790232658386,
+        "dinov3_cosine": 0.94864422082901,
+        "combined": 0.8459116220474243
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_8e7c440e70",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 2745,
+        "y": 4847,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_8b3f234064",
+      "capture_id": "cap_8e7c440e70",
+      "reference_id": "ref",
+      "score": 0.8075911104679108,
+      "score_breakdown": {
+        "ncc": 0.7396877408027649,
+        "dinov3_cosine": 0.8754944801330566,
+        "combined": 0.8075911104679108
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_9197e33cae",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3960,
+        "y": 2810,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cbf4781324",
+      "capture_id": "cap_9197e33cae",
+      "reference_id": "ref",
+      "score": 0.7971185147762299,
+      "score_breakdown": {
+        "ncc": 0.7394999265670776,
+        "dinov3_cosine": 0.8547371029853821,
+        "combined": 0.7971185147762299
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_27d961abad",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3960,
+        "y": 3062,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f054ced31e",
+      "capture_id": "cap_27d961abad",
+      "reference_id": "ref",
+      "score": 0.783292829990387,
+      "score_breakdown": {
+        "ncc": 0.7389084100723267,
+        "dinov3_cosine": 0.8276772499084473,
+        "combined": 0.783292829990387
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_2ac21ad256",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4888,
+        "y": 4174,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_297f988f2a",
+      "capture_id": "cap_2ac21ad256",
+      "reference_id": "ref",
+      "score": 0.8108373582363129,
+      "score_breakdown": {
+        "ncc": 0.738849937915802,
+        "dinov3_cosine": 0.8828247785568237,
+        "combined": 0.8108373582363129
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_fc128cdefc",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6468,
+        "y": 2849,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_356686d70a",
+      "capture_id": "cap_fc128cdefc",
+      "reference_id": "ref",
+      "score": 0.787861555814743,
+      "score_breakdown": {
+        "ncc": 0.7387316823005676,
+        "dinov3_cosine": 0.8369914293289185,
+        "combined": 0.787861555814743
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_eea8f43e5c",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 3179,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_868172dac1",
+      "capture_id": "cap_eea8f43e5c",
+      "reference_id": "ref",
+      "score": 0.8292112648487091,
+      "score_breakdown": {
+        "ncc": 0.7378624081611633,
+        "dinov3_cosine": 0.9205601215362549,
+        "combined": 0.8292112648487091
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_fe78d1b7dc",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 3439,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cc1222d6cf",
+      "capture_id": "cap_fe78d1b7dc",
+      "reference_id": "ref",
+      "score": 0.8310348391532898,
+      "score_breakdown": {
+        "ncc": 0.7373806238174438,
+        "dinov3_cosine": 0.9246890544891357,
+        "combined": 0.8310348391532898
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_dd970700fd",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5350,
+        "y": 5097,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_7d76293051",
+      "capture_id": "cap_dd970700fd",
+      "reference_id": "ref",
+      "score": 0.7968490123748779,
+      "score_breakdown": {
+        "ncc": 0.7354941368103027,
+        "dinov3_cosine": 0.8582038879394531,
+        "combined": 0.7968490123748779
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_567231d3af",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2859,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_11310ea3d6",
+      "capture_id": "cap_567231d3af",
+      "reference_id": "ref",
+      "score": 0.8288387954235077,
+      "score_breakdown": {
+        "ncc": 0.7349168658256531,
+        "dinov3_cosine": 0.9227607250213623,
+        "combined": 0.8288387954235077
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_af7e05053a",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5016,
+        "y": 2417,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f54da89851",
+      "capture_id": "cap_af7e05053a",
+      "reference_id": "ref",
+      "score": 0.8034920990467072,
+      "score_breakdown": {
+        "ncc": 0.7347509860992432,
+        "dinov3_cosine": 0.8722332119941711,
+        "combined": 0.8034920990467072
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0cbb06f7f3",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 7531,
+        "y": 4900,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_ef483251fe",
+      "capture_id": "cap_0cbb06f7f3",
+      "reference_id": "ref",
+      "score": 0.8167468905448914,
+      "score_breakdown": {
+        "ncc": 0.7331244349479675,
+        "dinov3_cosine": 0.9003693461418152,
+        "combined": 0.8167468905448914
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b08a823c4a",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 2151,
+        "y": 4824,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_7fc282e227",
+      "capture_id": "cap_b08a823c4a",
+      "reference_id": "ref",
+      "score": 0.8140458464622498,
+      "score_breakdown": {
+        "ncc": 0.7316210269927979,
+        "dinov3_cosine": 0.8964706659317017,
+        "combined": 0.8140458464622498
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_4db7f66227",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1470,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_c775ac469d",
+      "capture_id": "cap_4db7f66227",
+      "reference_id": "ref",
+      "score": 0.8314304947853088,
+      "score_breakdown": {
+        "ncc": 0.7310978174209595,
+        "dinov3_cosine": 0.9317631721496582,
+        "combined": 0.8314304947853088
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_8f2c9b1bcd",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4096,
+        "y": 2696,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_8935326940",
+      "capture_id": "cap_8f2c9b1bcd",
+      "reference_id": "ref",
+      "score": 0.7998632788658142,
+      "score_breakdown": {
+        "ncc": 0.730725884437561,
+        "dinov3_cosine": 0.8690006732940674,
+        "combined": 0.7998632788658142
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_a1956e4980",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6093,
+        "y": 5301,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_235388b2c5",
+      "capture_id": "cap_a1956e4980",
+      "reference_id": "ref",
+      "score": 0.8236969709396362,
+      "score_breakdown": {
+        "ncc": 0.7298158407211304,
+        "dinov3_cosine": 0.9175781011581421,
+        "combined": 0.8236969709396362
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_4d5560fe05",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6131,
+        "y": 5097,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_5e8b99022b",
+      "capture_id": "cap_4d5560fe05",
+      "reference_id": "ref",
+      "score": 0.8005410730838776,
+      "score_breakdown": {
+        "ncc": 0.7268440127372742,
+        "dinov3_cosine": 0.874238133430481,
+        "combined": 0.8005410730838776
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_9f64b45036",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6953,
+        "y": 2814,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cd74275f40",
+      "capture_id": "cap_9f64b45036",
+      "reference_id": "ref",
+      "score": 0.8128296136856079,
+      "score_breakdown": {
+        "ncc": 0.7250540256500244,
+        "dinov3_cosine": 0.9006052017211914,
+        "combined": 0.8128296136856079
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_83320d6180",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6727,
+        "y": 2534,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_df6726ca48",
+      "capture_id": "cap_83320d6180",
+      "reference_id": "ref",
+      "score": 0.8019230663776398,
+      "score_breakdown": {
+        "ncc": 0.7241644859313965,
+        "dinov3_cosine": 0.8796816468238831,
+        "combined": 0.8019230663776398
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b84335aecf",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3743,
+        "y": 5222,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_bd67c6c9cf",
+      "capture_id": "cap_b84335aecf",
+      "reference_id": "ref",
+      "score": 0.8110089302062988,
+      "score_breakdown": {
+        "ncc": 0.7240111827850342,
+        "dinov3_cosine": 0.8980066776275635,
+        "combined": 0.8110089302062988
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_cd6f706aad",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4790,
+        "y": 5097,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_6cb86cb4c9",
+      "capture_id": "cap_cd6f706aad",
+      "reference_id": "ref",
+      "score": 0.7813334763050079,
+      "score_breakdown": {
+        "ncc": 0.7231680750846863,
+        "dinov3_cosine": 0.8394988775253296,
+        "combined": 0.7813334763050079
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_94864f0275",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1914,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_b670a9d22d",
+      "capture_id": "cap_94864f0275",
+      "reference_id": "ref",
+      "score": 0.8267766833305359,
+      "score_breakdown": {
+        "ncc": 0.7228446006774902,
+        "dinov3_cosine": 0.9307087659835815,
+        "combined": 0.8267766833305359
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_95a6db44d5",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6099,
+        "y": 2376,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cb28186ec7",
+      "capture_id": "cap_95a6db44d5",
+      "reference_id": "ref",
+      "score": 0.7364354431629181,
+      "score_breakdown": {
+        "ncc": 0.7222244143486023,
+        "dinov3_cosine": 0.7506464719772339,
+        "combined": 0.7364354431629181
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_1c50960f93",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2943,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_533b7e9df4",
+      "capture_id": "cap_1c50960f93",
+      "reference_id": "ref",
+      "score": 0.8212611377239227,
+      "score_breakdown": {
+        "ncc": 0.722074031829834,
+        "dinov3_cosine": 0.9204482436180115,
+        "combined": 0.8212611377239227
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c3244325ca",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3743,
+        "y": 5118,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_d6ebe8dbf6",
+      "capture_id": "cap_c3244325ca",
+      "reference_id": "ref",
+      "score": 0.7932306230068207,
+      "score_breakdown": {
+        "ncc": 0.7218768000602722,
+        "dinov3_cosine": 0.8645844459533691,
+        "combined": 0.7932306230068207
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_5a611ac490",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3965,
+        "y": 4059,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_288da7272f",
+      "capture_id": "cap_5a611ac490",
+      "reference_id": "ref",
+      "score": 0.8012811243534088,
+      "score_breakdown": {
+        "ncc": 0.7213693261146545,
+        "dinov3_cosine": 0.8811929225921631,
+        "combined": 0.8012811243534088
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_dae17a3dfd",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4381,
+        "y": 5222,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_9862161b34",
+      "capture_id": "cap_dae17a3dfd",
+      "reference_id": "ref",
+      "score": 0.7964423894882202,
+      "score_breakdown": {
+        "ncc": 0.7198035717010498,
+        "dinov3_cosine": 0.8730812072753906,
+        "combined": 0.7964423894882202
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_7d1401d1c7",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5406,
+        "y": 4382,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_58d308d2f6",
+      "capture_id": "cap_7d1401d1c7",
+      "reference_id": "ref",
+      "score": 0.7882729768753052,
+      "score_breakdown": {
+        "ncc": 0.719694972038269,
+        "dinov3_cosine": 0.8568509817123413,
+        "combined": 0.7882729768753052
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_09bbda8159",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4093,
+        "y": 3156,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f8257d5bb9",
+      "capture_id": "cap_09bbda8159",
+      "reference_id": "ref",
+      "score": 0.7919907867908478,
+      "score_breakdown": {
+        "ncc": 0.7179358601570129,
+        "dinov3_cosine": 0.8660457134246826,
+        "combined": 0.7919907867908478
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_39cd16f2cd",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1981,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_629db93623",
+      "capture_id": "cap_39cd16f2cd",
+      "reference_id": "ref",
+      "score": 0.8098649382591248,
+      "score_breakdown": {
+        "ncc": 0.7176427841186523,
+        "dinov3_cosine": 0.9020870923995972,
+        "combined": 0.8098649382591248
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_9644f7dd9d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4187,
+        "y": 3194,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cc5e5d1d33",
+      "capture_id": "cap_9644f7dd9d",
+      "reference_id": "ref",
+      "score": 0.7741627097129822,
+      "score_breakdown": {
+        "ncc": 0.717529833316803,
+        "dinov3_cosine": 0.8307955861091614,
+        "combined": 0.7741627097129822
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_4c8e87cc5c",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3136,
+        "y": 4736,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_59228c1f2a",
+      "capture_id": "cap_4c8e87cc5c",
+      "reference_id": "ref",
+      "score": 0.7571737170219421,
+      "score_breakdown": {
+        "ncc": 0.7170546650886536,
+        "dinov3_cosine": 0.7972927689552307,
+        "combined": 0.7571737170219421
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0cc11c8ffb",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 7053,
+        "y": 4438,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_8bd11d11eb",
+      "capture_id": "cap_0cc11c8ffb",
+      "reference_id": "ref",
+      "score": 0.7875068485736847,
+      "score_breakdown": {
+        "ncc": 0.7169200778007507,
+        "dinov3_cosine": 0.8580936193466187,
+        "combined": 0.7875068485736847
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_af606616a5",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 1344,
+        "y": 5174,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_764f0fd5c5",
+      "capture_id": "cap_af606616a5",
+      "reference_id": "ref",
+      "score": 0.7943499684333801,
+      "score_breakdown": {
+        "ncc": 0.7168524861335754,
+        "dinov3_cosine": 0.8718474507331848,
+        "combined": 0.7943499684333801
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_42ca9df95f",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6947,
+        "y": 3576,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_d465ebef8c",
+      "capture_id": "cap_42ca9df95f",
+      "reference_id": "ref",
+      "score": 0.8070046603679657,
+      "score_breakdown": {
+        "ncc": 0.716419517993927,
+        "dinov3_cosine": 0.8975898027420044,
+        "combined": 0.8070046603679657
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_1eef05e3a7",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5367,
+        "y": 4044,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_7a253f316a",
+      "capture_id": "cap_1eef05e3a7",
+      "reference_id": "ref",
+      "score": 0.7775804102420807,
+      "score_breakdown": {
+        "ncc": 0.7155675292015076,
+        "dinov3_cosine": 0.8395932912826538,
+        "combined": 0.7775804102420807
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_42a713e3cb",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6995,
+        "y": 2597,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_a69037ce6a",
+      "capture_id": "cap_42a713e3cb",
+      "reference_id": "ref",
+      "score": 0.8089933097362518,
+      "score_breakdown": {
+        "ncc": 0.7148371338844299,
+        "dinov3_cosine": 0.9031494855880737,
+        "combined": 0.8089933097362518
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_4a2181005d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6981,
+        "y": 3201,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_1406daba0b",
+      "capture_id": "cap_4a2181005d",
+      "reference_id": "ref",
+      "score": 0.813602477312088,
+      "score_breakdown": {
+        "ncc": 0.7144923210144043,
+        "dinov3_cosine": 0.9127126336097717,
+        "combined": 0.813602477312088
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_41b4db511f",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1358,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_eac91fcc30",
+      "capture_id": "cap_41b4db511f",
+      "reference_id": "ref",
+      "score": 0.8093792796134949,
+      "score_breakdown": {
+        "ncc": 0.7125734090805054,
+        "dinov3_cosine": 0.9061851501464844,
+        "combined": 0.8093792796134949
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_e972b314b4",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2710,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f38ebc86a9",
+      "capture_id": "cap_e972b314b4",
+      "reference_id": "ref",
+      "score": 0.8170440196990967,
+      "score_breakdown": {
+        "ncc": 0.7119795083999634,
+        "dinov3_cosine": 0.92210853099823,
+        "combined": 0.8170440196990967
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_21421b03bb",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3969,
+        "y": 3669,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_5aeaa40ebb",
+      "capture_id": "cap_21421b03bb",
+      "reference_id": "ref",
+      "score": 0.777213841676712,
+      "score_breakdown": {
+        "ncc": 0.7106942534446716,
+        "dinov3_cosine": 0.8437334299087524,
+        "combined": 0.777213841676712
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_86b26324dd",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5018,
+        "y": 2191,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_0e7271702f",
+      "capture_id": "cap_86b26324dd",
+      "reference_id": "ref",
+      "score": 0.7604568302631378,
+      "score_breakdown": {
+        "ncc": 0.7102996706962585,
+        "dinov3_cosine": 0.8106139898300171,
+        "combined": 0.7604568302631378
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_135f24f423",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5037,
+        "y": 2482,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cee88db6dd",
+      "capture_id": "cap_135f24f423",
+      "reference_id": "ref",
+      "score": 0.7661690711975098,
+      "score_breakdown": {
+        "ncc": 0.7100714445114136,
+        "dinov3_cosine": 0.822266697883606,
+        "combined": 0.7661690711975098
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_f06f35220b",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3112,
+        "y": 4397,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_ca1282b10b",
+      "capture_id": "cap_f06f35220b",
+      "reference_id": "ref",
+      "score": 0.7981402277946472,
+      "score_breakdown": {
+        "ncc": 0.7097017168998718,
+        "dinov3_cosine": 0.8865787386894226,
+        "combined": 0.7981402277946472
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_1cb08719b4",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6331,
+        "y": 5308,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_666bf7f5d6",
+      "capture_id": "cap_1cb08719b4",
+      "reference_id": "ref",
+      "score": 0.7893649935722351,
+      "score_breakdown": {
+        "ncc": 0.709554135799408,
+        "dinov3_cosine": 0.8691758513450623,
+        "combined": 0.7893649935722351
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_437aa17cb3",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4538,
+        "y": 3937,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_92215703e8",
+      "capture_id": "cap_437aa17cb3",
+      "reference_id": "ref",
+      "score": 0.7852171957492828,
+      "score_breakdown": {
+        "ncc": 0.7090105414390564,
+        "dinov3_cosine": 0.8614238500595093,
+        "combined": 0.7852171957492828
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_029e2fdb19",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2299,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f03966594c",
+      "capture_id": "cap_029e2fdb19",
+      "reference_id": "ref",
+      "score": 0.8228404819965363,
+      "score_breakdown": {
+        "ncc": 0.7086811661720276,
+        "dinov3_cosine": 0.9369997978210449,
+        "combined": 0.8228404819965363
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_33ebf0b9c8",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3961,
+        "y": 2875,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_eebaba5053",
+      "capture_id": "cap_33ebf0b9c8",
+      "reference_id": "ref",
+      "score": 0.7792355716228485,
+      "score_breakdown": {
+        "ncc": 0.707775890827179,
+        "dinov3_cosine": 0.8506952524185181,
+        "combined": 0.7792355716228485
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_e3eaa44a99",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3681,
+        "y": 4721,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_dc7c35eaca",
+      "capture_id": "cap_e3eaa44a99",
+      "reference_id": "ref",
+      "score": 0.772053062915802,
+      "score_breakdown": {
+        "ncc": 0.7070925235748291,
+        "dinov3_cosine": 0.8370136022567749,
+        "combined": 0.772053062915802
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_95d0b1628f",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3967,
+        "y": 4259,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_85ecc42c54",
+      "capture_id": "cap_95d0b1628f",
+      "reference_id": "ref",
+      "score": 0.7978547513484955,
+      "score_breakdown": {
+        "ncc": 0.7070881128311157,
+        "dinov3_cosine": 0.8886213898658752,
+        "combined": 0.7978547513484955
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d9d19fe72b",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4201,
+        "y": 4397,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_18e3e6d854",
+      "capture_id": "cap_d9d19fe72b",
+      "reference_id": "ref",
+      "score": 0.7909981310367584,
+      "score_breakdown": {
+        "ncc": 0.7067564129829407,
+        "dinov3_cosine": 0.8752398490905762,
+        "combined": 0.7909981310367584
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_8a62128148",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6011,
+        "y": 4887,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_85a35cf2d2",
+      "capture_id": "cap_8a62128148",
+      "reference_id": "ref",
+      "score": 0.8020569980144501,
+      "score_breakdown": {
+        "ncc": 0.7060860395431519,
+        "dinov3_cosine": 0.8980279564857483,
+        "combined": 0.8020569980144501
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_262a0c0273",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 448,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_bb66e44969",
+      "capture_id": "cap_262a0c0273",
+      "reference_id": "ref",
+      "score": 0.8171372711658478,
+      "score_breakdown": {
+        "ncc": 0.7052100300788879,
+        "dinov3_cosine": 0.9290645122528076,
+        "combined": 0.8171372711658478
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_86809e130b",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 1344,
+        "y": 5296,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_0adfa01241",
+      "capture_id": "cap_86809e130b",
+      "reference_id": "ref",
+      "score": 0.7953543066978455,
+      "score_breakdown": {
+        "ncc": 0.7047970294952393,
+        "dinov3_cosine": 0.8859115839004517,
+        "combined": 0.7953543066978455
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_ae809768ce",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4539,
+        "y": 3412,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_bbb0412f79",
+      "capture_id": "cap_ae809768ce",
+      "reference_id": "ref",
+      "score": 0.7680491507053375,
+      "score_breakdown": {
+        "ncc": 0.7044389247894287,
+        "dinov3_cosine": 0.8316593766212463,
+        "combined": 0.7680491507053375
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_f02f125075",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3440,
+        "y": 4394,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_de7a0c7346",
+      "capture_id": "cap_f02f125075",
+      "reference_id": "ref",
+      "score": 0.805166482925415,
+      "score_breakdown": {
+        "ncc": 0.7035433053970337,
+        "dinov3_cosine": 0.9067896604537964,
+        "combined": 0.805166482925415
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d1800b549d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6085,
+        "y": 4971,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_73411df7c2",
+      "capture_id": "cap_d1800b549d",
+      "reference_id": "ref",
+      "score": 0.7770363688468933,
+      "score_breakdown": {
+        "ncc": 0.7026299834251404,
+        "dinov3_cosine": 0.8514427542686462,
+        "combined": 0.7770363688468933
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_153e86f328",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 1344,
+        "y": 4931,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_c78512f883",
+      "capture_id": "cap_153e86f328",
+      "reference_id": "ref",
+      "score": 0.7813693284988403,
+      "score_breakdown": {
+        "ncc": 0.7022081613540649,
+        "dinov3_cosine": 0.8605304956436157,
+        "combined": 0.7813693284988403
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c2baaba850",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4542,
+        "y": 4389,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_2e83e68810",
+      "capture_id": "cap_c2baaba850",
+      "reference_id": "ref",
+      "score": 0.8029345571994781,
+      "score_breakdown": {
+        "ncc": 0.7011132836341858,
+        "dinov3_cosine": 0.9047558307647705,
+        "combined": 0.8029345571994781
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_72e54f082e",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5654,
+        "y": 4627,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_4aec339f63",
+      "capture_id": "cap_72e54f082e",
+      "reference_id": "ref",
+      "score": 0.788912296295166,
+      "score_breakdown": {
+        "ncc": 0.7005535364151001,
+        "dinov3_cosine": 0.8772710561752319,
+        "combined": 0.788912296295166
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_2bf156ec15",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 366,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cf42de9a99",
+      "capture_id": "cap_2bf156ec15",
+      "reference_id": "ref",
+      "score": 0.8215303122997284,
+      "score_breakdown": {
+        "ncc": 0.7005034685134888,
+        "dinov3_cosine": 0.942557156085968,
+        "combined": 0.8215303122997284
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_6bb409897c",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 7002,
+        "y": 2216,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_bef8713996",
+      "capture_id": "cap_6bb409897c",
+      "reference_id": "ref",
+      "score": 0.7988369166851044,
+      "score_breakdown": {
+        "ncc": 0.6986318826675415,
+        "dinov3_cosine": 0.8990419507026672,
+        "combined": 0.7988369166851044
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_ccf8d94251",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5838,
+        "y": 3223,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_918aa5ec72",
+      "capture_id": "cap_ccf8d94251",
+      "reference_id": "ref",
+      "score": 0.7790038883686066,
+      "score_breakdown": {
+        "ncc": 0.6983979344367981,
+        "dinov3_cosine": 0.859609842300415,
+        "combined": 0.7790038883686066
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_56f61cf35b",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 3030,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_bafb9bc941",
+      "capture_id": "cap_56f61cf35b",
+      "reference_id": "ref",
+      "score": 0.8038458228111267,
+      "score_breakdown": {
+        "ncc": 0.69790118932724,
+        "dinov3_cosine": 0.9097904562950134,
+        "combined": 0.8038458228111267
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_eac37e1901",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6020,
+        "y": 5355,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_8a2d9aa652",
+      "capture_id": "cap_eac37e1901",
+      "reference_id": "ref",
+      "score": 0.8084501922130585,
+      "score_breakdown": {
+        "ncc": 0.6970202922821045,
+        "dinov3_cosine": 0.9198800921440125,
+        "combined": 0.8084501922130585
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_7d4ab42a3b",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4539,
+        "y": 3480,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_a24d1ff1fa",
+      "capture_id": "cap_7d4ab42a3b",
+      "reference_id": "ref",
+      "score": 0.7908382713794708,
+      "score_breakdown": {
+        "ncc": 0.6956568956375122,
+        "dinov3_cosine": 0.8860196471214294,
+        "combined": 0.7908382713794708
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_8ee62435cb",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5323,
+        "y": 4908,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_367eade4bb",
+      "capture_id": "cap_8ee62435cb",
+      "reference_id": "ref",
+      "score": 0.7931396663188934,
+      "score_breakdown": {
+        "ncc": 0.694690465927124,
+        "dinov3_cosine": 0.8915888667106628,
+        "combined": 0.7931396663188934
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_ea369afff0",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6304,
+        "y": 4962,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_fcee7426a1",
+      "capture_id": "cap_ea369afff0",
+      "reference_id": "ref",
+      "score": 0.749747097492218,
+      "score_breakdown": {
+        "ncc": 0.6936217546463013,
+        "dinov3_cosine": 0.8058724403381348,
+        "combined": 0.749747097492218
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_afc65dd542",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2148,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f673710278",
+      "capture_id": "cap_afc65dd542",
+      "reference_id": "ref",
+      "score": 0.8025449514389038,
+      "score_breakdown": {
+        "ncc": 0.6936047673225403,
+        "dinov3_cosine": 0.9114851355552673,
+        "combined": 0.8025449514389038
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_1c4f57d90d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5981,
+        "y": 4327,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_b156cd74b4",
+      "capture_id": "cap_1c4f57d90d",
+      "reference_id": "ref",
+      "score": 0.7837441861629486,
+      "score_breakdown": {
+        "ncc": 0.6933141946792603,
+        "dinov3_cosine": 0.874174177646637,
+        "combined": 0.7837441861629486
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_2a87480a38",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4831,
+        "y": 4879,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_24a57b964f",
+      "capture_id": "cap_2a87480a38",
+      "reference_id": "ref",
+      "score": 0.7814209461212158,
+      "score_breakdown": {
+        "ncc": 0.6924532651901245,
+        "dinov3_cosine": 0.8703886270523071,
+        "combined": 0.7814209461212158
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b0d412aef6",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4892,
+        "y": 5334,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_47b016c1e3",
+      "capture_id": "cap_b0d412aef6",
+      "reference_id": "ref",
+      "score": 0.7911367416381836,
+      "score_breakdown": {
+        "ncc": 0.6924073696136475,
+        "dinov3_cosine": 0.8898661136627197,
+        "combined": 0.7911367416381836
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c28565e1f2",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5552,
+        "y": 4974,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_aadd1c10fe",
+      "capture_id": "cap_c28565e1f2",
+      "reference_id": "ref",
+      "score": 0.7476910650730133,
+      "score_breakdown": {
+        "ncc": 0.6919648051261902,
+        "dinov3_cosine": 0.8034173250198364,
+        "combined": 0.7476910650730133
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_24db39b6cf",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 7193,
+        "y": 4589,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_9d612dd4b8",
+      "capture_id": "cap_24db39b6cf",
+      "reference_id": "ref",
+      "score": 0.7742142379283905,
+      "score_breakdown": {
+        "ncc": 0.691744863986969,
+        "dinov3_cosine": 0.856683611869812,
+        "combined": 0.7742142379283905
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c2dc1df5e3",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2207,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_7df250f40f",
+      "capture_id": "cap_c2dc1df5e3",
+      "reference_id": "ref",
+      "score": 0.7866966724395752,
+      "score_breakdown": {
+        "ncc": 0.6913389563560486,
+        "dinov3_cosine": 0.8820543885231018,
+        "combined": 0.7866966724395752
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_9c0b74d401",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4215,
+        "y": 4883,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_153b2dc68c",
+      "capture_id": "cap_9c0b74d401",
+      "reference_id": "ref",
+      "score": 0.7669046819210052,
+      "score_breakdown": {
+        "ncc": 0.6903119683265686,
+        "dinov3_cosine": 0.8434973955154419,
+        "combined": 0.7669046819210052
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0833765750",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3964,
+        "y": 3921,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_25b00387f5",
+      "capture_id": "cap_0833765750",
+      "reference_id": "ref",
+      "score": 0.7869393527507782,
+      "score_breakdown": {
+        "ncc": 0.6901068091392517,
+        "dinov3_cosine": 0.8837718963623047,
+        "combined": 0.7869393527507782
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_e78cff1f9e",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4077,
+        "y": 3453,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_94002014f5",
+      "capture_id": "cap_e78cff1f9e",
+      "reference_id": "ref",
+      "score": 0.7905054986476898,
+      "score_breakdown": {
+        "ncc": 0.6895001530647278,
+        "dinov3_cosine": 0.8915108442306519,
+        "combined": 0.7905054986476898
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_011dcd4424",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4548,
+        "y": 2396,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_b19e8d3c64",
+      "capture_id": "cap_011dcd4424",
+      "reference_id": "ref",
+      "score": 0.7878610491752625,
+      "score_breakdown": {
+        "ncc": 0.688460111618042,
+        "dinov3_cosine": 0.8872619867324829,
+        "combined": 0.7878610491752625
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b0cef554a2",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1038,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_14f66161fd",
+      "capture_id": "cap_b0cef554a2",
+      "reference_id": "ref",
+      "score": 0.7927649021148682,
+      "score_breakdown": {
+        "ncc": 0.6880885362625122,
+        "dinov3_cosine": 0.8974412679672241,
+        "combined": 0.7927649021148682
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c068c392bd",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6127,
+        "y": 1686,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_9e725130ed",
+      "capture_id": "cap_c068c392bd",
+      "reference_id": "ref",
+      "score": 0.7752475440502167,
+      "score_breakdown": {
+        "ncc": 0.6880665421485901,
+        "dinov3_cosine": 0.8624285459518433,
+        "combined": 0.7752475440502167
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0886606ea1",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4809,
+        "y": 4971,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_42b5f7fd6b",
+      "capture_id": "cap_0886606ea1",
+      "reference_id": "ref",
+      "score": 0.7623112797737122,
+      "score_breakdown": {
+        "ncc": 0.6853507161140442,
+        "dinov3_cosine": 0.8392718434333801,
+        "combined": 0.7623112797737122
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_62cf7fd113",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6691,
+        "y": 3558,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f299747d40",
+      "capture_id": "cap_62cf7fd113",
+      "reference_id": "ref",
+      "score": 0.7522729933261871,
+      "score_breakdown": {
+        "ncc": 0.6834274530410767,
+        "dinov3_cosine": 0.8211185336112976,
+        "combined": 0.7522729933261871
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d6f81a1a55",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1592,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_e7b9b1bf1d",
+      "capture_id": "cap_d6f81a1a55",
+      "reference_id": "ref",
+      "score": 0.7685568034648895,
+      "score_breakdown": {
+        "ncc": 0.6830453276634216,
+        "dinov3_cosine": 0.8540682792663574,
+        "combined": 0.7685568034648895
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b396dd9645",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4494,
+        "y": 5176,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_d80d37851c",
+      "capture_id": "cap_b396dd9645",
+      "reference_id": "ref",
+      "score": 0.7904248535633087,
+      "score_breakdown": {
+        "ncc": 0.6822977662086487,
+        "dinov3_cosine": 0.8985519409179688,
+        "combined": 0.7904248535633087
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b3516093ae",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4525,
+        "y": 2638,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_8acfda0aea",
+      "capture_id": "cap_b3516093ae",
+      "reference_id": "ref",
+      "score": 0.7811484336853027,
+      "score_breakdown": {
+        "ncc": 0.681850790977478,
+        "dinov3_cosine": 0.8804460763931274,
+        "combined": 0.7811484336853027
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_245cc67fc7",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1534,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_a02f9417cd",
+      "capture_id": "cap_245cc67fc7",
+      "reference_id": "ref",
+      "score": 0.7781198024749756,
+      "score_breakdown": {
+        "ncc": 0.6814867258071899,
+        "dinov3_cosine": 0.8747528791427612,
+        "combined": 0.7781198024749756
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_6c7f6b9fdd",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6304,
+        "y": 4898,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f4b8cc473c",
+      "capture_id": "cap_6c7f6b9fdd",
+      "reference_id": "ref",
+      "score": 0.7651579082012177,
+      "score_breakdown": {
+        "ncc": 0.6814010739326477,
+        "dinov3_cosine": 0.8489147424697876,
+        "combined": 0.7651579082012177
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_a61da510f2",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5349,
+        "y": 5033,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_570c93c8d2",
+      "capture_id": "cap_a61da510f2",
+      "reference_id": "ref",
+      "score": 0.7455958425998688,
+      "score_breakdown": {
+        "ncc": 0.6809856295585632,
+        "dinov3_cosine": 0.8102060556411743,
+        "combined": 0.7455958425998688
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d40f470de9",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4187,
+        "y": 3261,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_e1851311ac",
+      "capture_id": "cap_d40f470de9",
+      "reference_id": "ref",
+      "score": 0.7677940726280212,
+      "score_breakdown": {
+        "ncc": 0.6801512241363525,
+        "dinov3_cosine": 0.8554369211196899,
+        "combined": 0.7677940726280212
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_ba8d8f587c",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5633,
+        "y": 5344,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_0c43a607d9",
+      "capture_id": "cap_ba8d8f587c",
+      "reference_id": "ref",
+      "score": 0.7863870561122894,
+      "score_breakdown": {
+        "ncc": 0.6800446510314941,
+        "dinov3_cosine": 0.8927294611930847,
+        "combined": 0.7863870561122894
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_92dfd50204",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5553,
+        "y": 5100,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_62c79e45d5",
+      "capture_id": "cap_92dfd50204",
+      "reference_id": "ref",
+      "score": 0.7537038028240204,
+      "score_breakdown": {
+        "ncc": 0.6793028116226196,
+        "dinov3_cosine": 0.8281047940254211,
+        "combined": 0.7537038028240204
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_84f40d7d35",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4538,
+        "y": 3999,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_d9d6f376f2",
+      "capture_id": "cap_84f40d7d35",
+      "reference_id": "ref",
+      "score": 0.7719061076641083,
+      "score_breakdown": {
+        "ncc": 0.6788707375526428,
+        "dinov3_cosine": 0.8649414777755737,
+        "combined": 0.7719061076641083
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_081f59de31",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3743,
+        "y": 4895,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_2947dc02cf",
+      "capture_id": "cap_081f59de31",
+      "reference_id": "ref",
+      "score": 0.7338250875473022,
+      "score_breakdown": {
+        "ncc": 0.6786759495735168,
+        "dinov3_cosine": 0.7889742255210876,
+        "combined": 0.7338250875473022
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_2e42d9084e",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 828,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_608d709f72",
+      "capture_id": "cap_2e42d9084e",
+      "reference_id": "ref",
+      "score": 0.7999204397201538,
+      "score_breakdown": {
+        "ncc": 0.6762593984603882,
+        "dinov3_cosine": 0.9235814809799194,
+        "combined": 0.7999204397201538
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d2b8437c19",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 7068,
+        "y": 4780,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_52268c9d5e",
+      "capture_id": "cap_d2b8437c19",
+      "reference_id": "ref",
+      "score": 0.7086109220981598,
+      "score_breakdown": {
+        "ncc": 0.6755589842796326,
+        "dinov3_cosine": 0.741662859916687,
+        "combined": 0.7086109220981598
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_f39a7b48ef",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1297,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_055a941e23",
+      "capture_id": "cap_f39a7b48ef",
+      "reference_id": "ref",
+      "score": 0.8032774329185486,
+      "score_breakdown": {
+        "ncc": 0.6753116846084595,
+        "dinov3_cosine": 0.9312431812286377,
+        "combined": 0.8032774329185486
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_6324390e22",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5018,
+        "y": 2097,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_1c57a53b88",
+      "capture_id": "cap_6324390e22",
+      "reference_id": "ref",
+      "score": 0.7769705057144165,
+      "score_breakdown": {
+        "ncc": 0.6747874021530151,
+        "dinov3_cosine": 0.8791536092758179,
+        "combined": 0.7769705057144165
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_161f79c0e6",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3959,
+        "y": 2998,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_c91126cd52",
+      "capture_id": "cap_161f79c0e6",
+      "reference_id": "ref",
+      "score": 0.7631548941135406,
+      "score_breakdown": {
+        "ncc": 0.6746093034744263,
+        "dinov3_cosine": 0.851700484752655,
+        "combined": 0.7631548941135406
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_00e454fb4c",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4525,
+        "y": 2706,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f7730cd27c",
+      "capture_id": "cap_00e454fb4c",
+      "reference_id": "ref",
+      "score": 0.7705346643924713,
+      "score_breakdown": {
+        "ncc": 0.6725773215293884,
+        "dinov3_cosine": 0.8684920072555542,
+        "combined": 0.7705346643924713
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_978eaa70c6",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5655,
+        "y": 4405,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_c6954c63e6",
+      "capture_id": "cap_978eaa70c6",
+      "reference_id": "ref",
+      "score": 0.7374497354030609,
+      "score_breakdown": {
+        "ncc": 0.6725683808326721,
+        "dinov3_cosine": 0.8023310899734497,
+        "combined": 0.7374497354030609
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_ada8763830",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5309,
+        "y": 4696,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_206e01458b",
+      "capture_id": "cap_ada8763830",
+      "reference_id": "ref",
+      "score": 0.7384685575962067,
+      "score_breakdown": {
+        "ncc": 0.6724962592124939,
+        "dinov3_cosine": 0.8044408559799194,
+        "combined": 0.7384685575962067
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0d668503eb",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 531,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_1fa8d9ed0c",
+      "capture_id": "cap_0d668503eb",
+      "reference_id": "ref",
+      "score": 0.7999809980392456,
+      "score_breakdown": {
+        "ncc": 0.671932578086853,
+        "dinov3_cosine": 0.9280294179916382,
+        "combined": 0.7999809980392456
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_8a341ce2b8",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 3470,
+        "y": 4743,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_bb9c39b039",
+      "capture_id": "cap_8a341ce2b8",
+      "reference_id": "ref",
+      "score": 0.7543289065361023,
+      "score_breakdown": {
+        "ncc": 0.6700910329818726,
+        "dinov3_cosine": 0.838566780090332,
+        "combined": 0.7543289065361023
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_62408c667d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2619,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_31c29df256",
+      "capture_id": "cap_62408c667d",
+      "reference_id": "ref",
+      "score": 0.7695688009262085,
+      "score_breakdown": {
+        "ncc": 0.6690692901611328,
+        "dinov3_cosine": 0.8700683116912842,
+        "combined": 0.7695688009262085
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c586b4d8fa",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1710,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_ef4c0b68bd",
+      "capture_id": "cap_c586b4d8fa",
+      "reference_id": "ref",
+      "score": 0.7619145214557648,
+      "score_breakdown": {
+        "ncc": 0.6689609289169312,
+        "dinov3_cosine": 0.8548681139945984,
+        "combined": 0.7619145214557648
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b5900abd4d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 3090,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_76af9837a4",
+      "capture_id": "cap_b5900abd4d",
+      "reference_id": "ref",
+      "score": 0.7695779502391815,
+      "score_breakdown": {
+        "ncc": 0.667890727519989,
+        "dinov3_cosine": 0.871265172958374,
+        "combined": 0.7695779502391815
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_eaa0d21af9",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 616,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_7ada190c5c",
+      "capture_id": "cap_eaa0d21af9",
+      "reference_id": "ref",
+      "score": 0.7954191267490387,
+      "score_breakdown": {
+        "ncc": 0.6663828492164612,
+        "dinov3_cosine": 0.9244554042816162,
+        "combined": 0.7954191267490387
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c3b1ca455b",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5219,
+        "y": 5352,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_80d8e69901",
+      "capture_id": "cap_c3b1ca455b",
+      "reference_id": "ref",
+      "score": 0.7613945007324219,
+      "score_breakdown": {
+        "ncc": 0.666096568107605,
+        "dinov3_cosine": 0.8566924333572388,
+        "combined": 0.7613945007324219
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_006db9039e",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6644,
+        "y": 2327,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_2a60ab0a15",
+      "capture_id": "cap_006db9039e",
+      "reference_id": "ref",
+      "score": 0.7063120007514954,
+      "score_breakdown": {
+        "ncc": 0.6647099256515503,
+        "dinov3_cosine": 0.7479140758514404,
+        "combined": 0.7063120007514954
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_6d344d043d",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1651,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_0020a71876",
+      "capture_id": "cap_6d344d043d",
+      "reference_id": "ref",
+      "score": 0.7599798142910004,
+      "score_breakdown": {
+        "ncc": 0.664400577545166,
+        "dinov3_cosine": 0.8555590510368347,
+        "combined": 0.7599798142910004
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_859fda8d40",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 684,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_e3cc481a7b",
+      "capture_id": "cap_859fda8d40",
+      "reference_id": "ref",
+      "score": 0.7679141461849213,
+      "score_breakdown": {
+        "ncc": 0.659936249256134,
+        "dinov3_cosine": 0.8758920431137085,
+        "combined": 0.7679141461849213
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c1ed18da1a",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5852,
+        "y": 2582,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_9160a41483",
+      "capture_id": "cap_c1ed18da1a",
+      "reference_id": "ref",
+      "score": 0.6937033534049988,
+      "score_breakdown": {
+        "ncc": 0.6593364477157593,
+        "dinov3_cosine": 0.7280702590942383,
+        "combined": 0.6937033534049988
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c6546103a1",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5308,
+        "y": 4556,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_dd51830ab8",
+      "capture_id": "cap_c6546103a1",
+      "reference_id": "ref",
+      "score": 0.763067215681076,
+      "score_breakdown": {
+        "ncc": 0.6590068340301514,
+        "dinov3_cosine": 0.8671275973320007,
+        "combined": 0.763067215681076
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_15ee4a4851",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 746,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_de65de4214",
+      "capture_id": "cap_15ee4a4851",
+      "reference_id": "ref",
+      "score": 0.7797989249229431,
+      "score_breakdown": {
+        "ncc": 0.6578984260559082,
+        "dinov3_cosine": 0.901699423789978,
+        "combined": 0.7797989249229431
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0257427449",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2377,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_b9039b6ae7",
+      "capture_id": "cap_0257427449",
+      "reference_id": "ref",
+      "score": 0.7888477444648743,
+      "score_breakdown": {
+        "ncc": 0.657837986946106,
+        "dinov3_cosine": 0.9198575019836426,
+        "combined": 0.7888477444648743
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_22e4aef118",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 4988,
+        "y": 4606,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_aa2c5f69b0",
+      "capture_id": "cap_22e4aef118",
+      "reference_id": "ref",
+      "score": 0.7529087662696838,
+      "score_breakdown": {
+        "ncc": 0.6554452776908875,
+        "dinov3_cosine": 0.8503722548484802,
+        "combined": 0.7529087662696838
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_7a54f24fbd",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6454,
+        "y": 3178,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_23444ca9ee",
+      "capture_id": "cap_7a54f24fbd",
+      "reference_id": "ref",
+      "score": 0.7011421024799347,
+      "score_breakdown": {
+        "ncc": 0.649315357208252,
+        "dinov3_cosine": 0.7529688477516174,
+        "combined": 0.7011421024799347
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_2964f41fc9",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 1770,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_9e51562424",
+      "capture_id": "cap_2964f41fc9",
+      "reference_id": "ref",
+      "score": 0.7529937326908112,
+      "score_breakdown": {
+        "ncc": 0.6457100510597229,
+        "dinov3_cosine": 0.8602774143218994,
+        "combined": 0.7529937326908112
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_999eb4eb99",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2438,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_aebe88bc14",
+      "capture_id": "cap_999eb4eb99",
+      "reference_id": "ref",
+      "score": 0.7597802877426147,
+      "score_breakdown": {
+        "ncc": 0.6452158689498901,
+        "dinov3_cosine": 0.8743447065353394,
+        "combined": 0.7597802877426147
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_9c7763b97f",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 6677,
+        "y": 2260,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_a21508b6d9",
+      "capture_id": "cap_9c7763b97f",
+      "reference_id": "ref",
+      "score": 0.652052640914917,
+      "score_breakdown": {
+        "ncc": 0.6403200626373291,
+        "dinov3_cosine": 0.6637852191925049,
+        "combined": 0.652052640914917
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b90dbd5ab4",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 2498,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_26799e2b32",
+      "capture_id": "cap_b90dbd5ab4",
+      "reference_id": "ref",
+      "score": 0.7492238879203796,
+      "score_breakdown": {
+        "ncc": 0.6402072310447693,
+        "dinov3_cosine": 0.85824054479599,
+        "combined": 0.7492238879203796
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_61d4dacd14",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5552,
+        "y": 5037,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_e1edfcd583",
+      "capture_id": "cap_61d4dacd14",
+      "reference_id": "ref",
+      "score": 0.6879181265830994,
+      "score_breakdown": {
+        "ncc": 0.6359683275222778,
+        "dinov3_cosine": 0.7398679256439209,
+        "combined": 0.6879181265830994
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_a98d21da41",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 917,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_387979ed3d",
+      "capture_id": "cap_a98d21da41",
+      "reference_id": "ref",
+      "score": 0.7616601288318634,
+      "score_breakdown": {
+        "ncc": 0.625260591506958,
+        "dinov3_cosine": 0.8980596661567688,
+        "combined": 0.7616601288318634
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_ae30f77461",
+      "source_page_id": "P120",
+      "page_idx": 0,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN",
+      "sheet_ref": "P120",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8241,
+        "y": 977,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_4581a90d58",
+      "capture_id": "cap_ae30f77461",
+      "reference_id": "ref",
+      "score": 0.7004359364509583,
+      "score_breakdown": {
+        "ncc": 0.5645591020584106,
+        "dinov3_cosine": 0.8363127708435059,
+        "combined": 0.7004359364509583
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_81b6b11a02",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 1094,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_eedea014d3",
+      "capture_id": "cap_81b6b11a02",
+      "reference_id": "ref",
+      "score": 0.9527729451656342,
+      "score_breakdown": {
+        "ncc": 0.9496896266937256,
+        "dinov3_cosine": 0.9558562636375427,
+        "combined": 0.9527729451656342
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_2793f13356",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 3318,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_1696418546",
+      "capture_id": "cap_2793f13356",
+      "reference_id": "ref",
+      "score": 0.9155925810337067,
+      "score_breakdown": {
+        "ncc": 0.8941186666488647,
+        "dinov3_cosine": 0.9370664954185486,
+        "combined": 0.9155925810337067
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_07d81f362e",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 1800,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cb65493d70",
+      "capture_id": "cap_07d81f362e",
+      "reference_id": "ref",
+      "score": 0.8451086282730103,
+      "score_breakdown": {
+        "ncc": 0.8132709264755249,
+        "dinov3_cosine": 0.8769463300704956,
+        "combined": 0.8451086282730103
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d5e299934c",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2529,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_60a1b07309",
+      "capture_id": "cap_d5e299934c",
+      "reference_id": "ref",
+      "score": 0.830674409866333,
+      "score_breakdown": {
+        "ncc": 0.7821625471115112,
+        "dinov3_cosine": 0.8791862726211548,
+        "combined": 0.830674409866333
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c376f675e3",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 3150,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_e986215b31",
+      "capture_id": "cap_c376f675e3",
+      "reference_id": "ref",
+      "score": 0.8280662596225739,
+      "score_breakdown": {
+        "ncc": 0.7379334568977356,
+        "dinov3_cosine": 0.9181990623474121,
+        "combined": 0.8280662596225739
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_22f0655196",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 3240,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_44e10a6181",
+      "capture_id": "cap_22f0655196",
+      "reference_id": "ref",
+      "score": 0.823638379573822,
+      "score_breakdown": {
+        "ncc": 0.7367210388183594,
+        "dinov3_cosine": 0.9105557203292847,
+        "combined": 0.823638379573822
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0bd9c5af3a",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 3410,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_6ffe92ae9b",
+      "capture_id": "cap_0bd9c5af3a",
+      "reference_id": "ref",
+      "score": 0.8238315284252167,
+      "score_breakdown": {
+        "ncc": 0.7302799820899963,
+        "dinov3_cosine": 0.917383074760437,
+        "combined": 0.8238315284252167
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_1865d23bc4",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2271,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_3e8f4f22a7",
+      "capture_id": "cap_1865d23bc4",
+      "reference_id": "ref",
+      "score": 0.8293372988700867,
+      "score_breakdown": {
+        "ncc": 0.7299311757087708,
+        "dinov3_cosine": 0.9287434220314026,
+        "combined": 0.8293372988700867
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0cb167850c",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2035,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_2412b51e3c",
+      "capture_id": "cap_0cb167850c",
+      "reference_id": "ref",
+      "score": 0.8311735689640045,
+      "score_breakdown": {
+        "ncc": 0.7278092503547668,
+        "dinov3_cosine": 0.9345378875732422,
+        "combined": 0.8311735689640045
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_e18a6b2c81",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2682,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_14a9954af2",
+      "capture_id": "cap_e18a6b2c81",
+      "reference_id": "ref",
+      "score": 0.8238716721534729,
+      "score_breakdown": {
+        "ncc": 0.7247565984725952,
+        "dinov3_cosine": 0.9229867458343506,
+        "combined": 0.8238716721534729
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_1960d848eb",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 1952,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_2a6bdbc9e5",
+      "capture_id": "cap_1960d848eb",
+      "reference_id": "ref",
+      "score": 0.81307253241539,
+      "score_breakdown": {
+        "ncc": 0.7237733602523804,
+        "dinov3_cosine": 0.9023717045783997,
+        "combined": 0.81307253241539
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_5e0b590586",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 800,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_1c2094d16b",
+      "capture_id": "cap_5e0b590586",
+      "reference_id": "ref",
+      "score": 0.8225811421871185,
+      "score_breakdown": {
+        "ncc": 0.720844566822052,
+        "dinov3_cosine": 0.9243177175521851,
+        "combined": 0.8225811421871185
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_743aa3a4fb",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2915,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_18efab7dc5",
+      "capture_id": "cap_743aa3a4fb",
+      "reference_id": "ref",
+      "score": 0.8160597085952759,
+      "score_breakdown": {
+        "ncc": 0.716529130935669,
+        "dinov3_cosine": 0.9155902862548828,
+        "combined": 0.8160597085952759
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d933768d62",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 1182,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_f358151772",
+      "capture_id": "cap_d933768d62",
+      "reference_id": "ref",
+      "score": 0.8292945027351379,
+      "score_breakdown": {
+        "ncc": 0.7145058512687683,
+        "dinov3_cosine": 0.9440831542015076,
+        "combined": 0.8292945027351379
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d652f53037",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 588,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_c9096e4244",
+      "capture_id": "cap_d652f53037",
+      "reference_id": "ref",
+      "score": 0.8155077993869781,
+      "score_breakdown": {
+        "ncc": 0.7132112979888916,
+        "dinov3_cosine": 0.9178043007850647,
+        "combined": 0.8155077993869781
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c472e11a76",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2744,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cb990d70cc",
+      "capture_id": "cap_c472e11a76",
+      "reference_id": "ref",
+      "score": 0.8076940476894379,
+      "score_breakdown": {
+        "ncc": 0.7131454944610596,
+        "dinov3_cosine": 0.9022426009178162,
+        "combined": 0.8076940476894379
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_40ca4551df",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 420,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_6cd88913a4",
+      "capture_id": "cap_40ca4551df",
+      "reference_id": "ref",
+      "score": 0.8182171583175659,
+      "score_breakdown": {
+        "ncc": 0.7058181166648865,
+        "dinov3_cosine": 0.9306161999702454,
+        "combined": 0.8182171583175659
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_50cccc6ff4",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 5829,
+        "y": 3327,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_b353f0c174",
+      "capture_id": "cap_50cccc6ff4",
+      "reference_id": "ref",
+      "score": 0.7179707586765289,
+      "score_breakdown": {
+        "ncc": 0.7009440064430237,
+        "dinov3_cosine": 0.7349975109100342,
+        "combined": 0.7179707586765289
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_26f4e94ef9",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2831,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_87b79688e8",
+      "capture_id": "cap_26f4e94ef9",
+      "reference_id": "ref",
+      "score": 0.8102927803993225,
+      "score_breakdown": {
+        "ncc": 0.7007038593292236,
+        "dinov3_cosine": 0.9198817014694214,
+        "combined": 0.8102927803993225
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_f6c3fda922",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 502,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_0fa2638297",
+      "capture_id": "cap_f6c3fda922",
+      "reference_id": "ref",
+      "score": 0.8133901953697205,
+      "score_breakdown": {
+        "ncc": 0.6944061517715454,
+        "dinov3_cosine": 0.9323742389678955,
+        "combined": 0.8133901953697205
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d5fdb6c133",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 2348,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_5723ee64af",
+      "capture_id": "cap_d5fdb6c133",
+      "reference_id": "ref",
+      "score": 0.803029328584671,
+      "score_breakdown": {
+        "ncc": 0.6937136054039001,
+        "dinov3_cosine": 0.9123450517654419,
+        "combined": 0.803029328584671
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_0bd9a10920",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 338,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_9f89b00797",
+      "capture_id": "cap_0bd9a10920",
+      "reference_id": "ref",
+      "score": 0.8185210525989532,
+      "score_breakdown": {
+        "ncc": 0.6928468942642212,
+        "dinov3_cosine": 0.9441952109336853,
+        "combined": 0.8185210525989532
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_c1868f5a9d",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2590,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_db2c7ddf89",
+      "capture_id": "cap_c1868f5a9d",
+      "reference_id": "ref",
+      "score": 0.7873747050762177,
+      "score_breakdown": {
+        "ncc": 0.6901230812072754,
+        "dinov3_cosine": 0.8846263289451599,
+        "combined": 0.7873747050762177
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_481bda5fa0",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 1441,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_adea728bfb",
+      "capture_id": "cap_481bda5fa0",
+      "reference_id": "ref",
+      "score": 0.8084282279014587,
+      "score_breakdown": {
+        "ncc": 0.6886645555496216,
+        "dinov3_cosine": 0.9281919002532959,
+        "combined": 0.8084282279014587
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_5c20e127d6",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 1505,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_d9bf17be50",
+      "capture_id": "cap_5c20e127d6",
+      "reference_id": "ref",
+      "score": 0.7772484123706818,
+      "score_breakdown": {
+        "ncc": 0.6831572651863098,
+        "dinov3_cosine": 0.8713395595550537,
+        "combined": 0.7772484123706818
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_b6b7696f2a",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 1885,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_7153ed370c",
+      "capture_id": "cap_b6b7696f2a",
+      "reference_id": "ref",
+      "score": 0.8039728999137878,
+      "score_breakdown": {
+        "ncc": 0.681598424911499,
+        "dinov3_cosine": 0.9263473749160767,
+        "combined": 0.8039728999137878
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_03711cf374",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 3062,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_fa2d3f9f00",
+      "capture_id": "cap_03711cf374",
+      "reference_id": "ref",
+      "score": 0.7729382812976837,
+      "score_breakdown": {
+        "ncc": 0.6784752607345581,
+        "dinov3_cosine": 0.8674013018608093,
+        "combined": 0.7729382812976837
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_e6cc46f0d7",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 656,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_0ec88ebdaf",
+      "capture_id": "cap_e6cc46f0d7",
+      "reference_id": "ref",
+      "score": 0.7786174714565277,
+      "score_breakdown": {
+        "ncc": 0.6776232123374939,
+        "dinov3_cosine": 0.8796117305755615,
+        "combined": 0.7786174714565277
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_fbfcb9b709",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2120,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_3cbb488c7b",
+      "capture_id": "cap_fbfcb9b709",
+      "reference_id": "ref",
+      "score": 0.7983524203300476,
+      "score_breakdown": {
+        "ncc": 0.6769100427627563,
+        "dinov3_cosine": 0.9197947978973389,
+        "combined": 0.7983524203300476
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_a51608e78a",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 1564,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_bad7ecbcd8",
+      "capture_id": "cap_a51608e78a",
+      "reference_id": "ref",
+      "score": 0.7641454339027405,
+      "score_breakdown": {
+        "ncc": 0.6749382019042969,
+        "dinov3_cosine": 0.8533526659011841,
+        "combined": 0.7641454339027405
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_a341945463",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 1269,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_537cb82d91",
+      "capture_id": "cap_a341945463",
+      "reference_id": "ref",
+      "score": 0.8000114560127258,
+      "score_breakdown": {
+        "ncc": 0.6725059747695923,
+        "dinov3_cosine": 0.9275169372558594,
+        "combined": 0.8000114560127258
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_a038116c54",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 2178,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_98409cccaf",
+      "capture_id": "cap_a038116c54",
+      "reference_id": "ref",
+      "score": 0.7629644274711609,
+      "score_breakdown": {
+        "ncc": 0.6609497666358948,
+        "dinov3_cosine": 0.864979088306427,
+        "combined": 0.7629644274711609
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_bc8458a3f8",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 717,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_31199976a1",
+      "capture_id": "cap_bc8458a3f8",
+      "reference_id": "ref",
+      "score": 0.7804068028926849,
+      "score_breakdown": {
+        "ncc": 0.6568847298622131,
+        "dinov3_cosine": 0.9039288759231567,
+        "combined": 0.7804068028926849
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_d61122ce83",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 1682,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_54af84ebdb",
+      "capture_id": "cap_d61122ce83",
+      "reference_id": "ref",
+      "score": 0.7688624262809753,
+      "score_breakdown": {
+        "ncc": 0.6562987565994263,
+        "dinov3_cosine": 0.8814260959625244,
+        "combined": 0.7688624262809753
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_12ad0540c8",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 3001,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_6b8f9a7422",
+      "capture_id": "cap_12ad0540c8",
+      "reference_id": "ref",
+      "score": 0.7870532870292664,
+      "score_breakdown": {
+        "ncc": 0.6554802656173706,
+        "dinov3_cosine": 0.9186263084411621,
+        "combined": 0.7870532870292664
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_67fccc2e7d",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 1010,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_82373f3cc7",
+      "capture_id": "cap_67fccc2e7d",
+      "reference_id": "ref",
+      "score": 0.7732814252376556,
+      "score_breakdown": {
+        "ncc": 0.6551572680473328,
+        "dinov3_cosine": 0.8914055824279785,
+        "combined": 0.7732814252376556
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_fab9768efa",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 1623,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 180,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_de9f9aa553",
+      "capture_id": "cap_fab9768efa",
+      "reference_id": "ref",
+      "score": 0.7521401047706604,
+      "score_breakdown": {
+        "ncc": 0.6498738527297974,
+        "dinov3_cosine": 0.8544063568115234,
+        "combined": 0.7521401047706604
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_4d380b51a0",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8242,
+        "y": 1330,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_62f73f839b",
+      "capture_id": "cap_4d380b51a0",
+      "reference_id": "ref",
+      "score": 0.772359311580658,
+      "score_breakdown": {
+        "ncc": 0.6474787592887878,
+        "dinov3_cosine": 0.8972398638725281,
+        "combined": 0.772359311580658
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_5a83d95780",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 889,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_5ef8f0ab2f",
+      "capture_id": "cap_5a83d95780",
+      "reference_id": "ref",
+      "score": 0.7640267312526703,
+      "score_breakdown": {
+        "ncc": 0.6454018354415894,
+        "dinov3_cosine": 0.8826516270637512,
+        "combined": 0.7640267312526703
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_3a70dc9897",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2470,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_cfba570c95",
+      "capture_id": "cap_3a70dc9897",
+      "reference_id": "ref",
+      "score": 0.7474528849124908,
+      "score_breakdown": {
+        "ncc": 0.6337268948554993,
+        "dinov3_cosine": 0.8611788749694824,
+        "combined": 0.7474528849124908
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_cc657eea3f",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 2410,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_fc1089cdbd",
+      "capture_id": "cap_cc657eea3f",
+      "reference_id": "ref",
+      "score": 0.7530904710292816,
+      "score_breakdown": {
+        "ncc": 0.625111997127533,
+        "dinov3_cosine": 0.8810689449310303,
+        "combined": 0.7530904710292816
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_5021954cdf",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 1741,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_dd5d7e1690",
+      "capture_id": "cap_5021954cdf",
+      "reference_id": "ref",
+      "score": 0.7376079857349396,
+      "score_breakdown": {
+        "ncc": 0.618914783000946,
+        "dinov3_cosine": 0.8563011884689331,
+        "combined": 0.7376079857349396
+      },
+      "stage": "rerank"
+    }
+  },
+  {
+    "capture": {
+      "id": "cap_7ec65a9d9d",
+      "source_page_id": "P121",
+      "page_idx": 1,
+      "page_name": "PLUMBING SECOND FLOOR CONSTRUCTION PLAN ABOVE CEILING WASTE AND VENT PIPING",
+      "sheet_ref": "P121",
+      "page_type": "Plumbing",
+      "bbox": {
+        "x": 8243,
+        "y": 949,
+        "w": 74,
+        "h": 66
+      },
+      "rotation_deg": 0,
+      "scale": 1.0
+    },
+    "drawingItem": {
+      "id": "item_d1de2ec1ea",
+      "capture_id": "cap_7ec65a9d9d",
+      "reference_id": "ref",
+      "score": 0.7192306816577911,
+      "score_breakdown": {
+        "ncc": 0.6056095957756042,
+        "dinov3_cosine": 0.832851767539978,
+        "combined": 0.7192306816577911
+      },
+      "stage": "rerank"
+    }
+  }
+]
